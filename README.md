@@ -137,7 +137,7 @@ WHERE email='admin@gmail.com';
 
 📌 Auteur
 
-Projet réalisé par Daniel Dams
+Projet réalisé par Mouafo Wemeni Alan Daniel alias DANIEL DAMS
 Étudiant en Génie Informatique
 
 ⸻
